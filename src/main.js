@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle'
 
 window.$ = window.jQuery = require('jquery');
-window.HOST = 'https://btnpanicfemizoo.herokuapp.com';
+window.HOST = 'btnfemizoosql.herokuapp.com';
 
 import VueGoogleMaps from '@fawmi/vue-google-maps'
 
